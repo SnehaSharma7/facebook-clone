@@ -1,7 +1,6 @@
 📘 Facebook Clone (Frontend)
 
-A responsive Facebook-inspired UI clone built using React, TypeScript, Vite, and Tailwind CSS, featuring authentication flows and modern component-based architecture.
-This project focuses on clean UI development, responsiveness, and real-world frontend patterns.
+A modern Facebook-style frontend clone built with React, TypeScript, Tailwind CSS, and Clerk authentication.
 
 🚀 Live Preview
 
